@@ -17,6 +17,6 @@
     }
   ],
   "env": {
-    "MONGODB_URI": "your-mongodb-connection-string"
+    "MONGODB_URI": "mongodb+srv://omsandeeppatil02:fCNetQNv1QhgppM4@cluster0.rfdjs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   }
 }
