@@ -1,6 +1,6 @@
+import EmployeeList from '@/components/EmployeeList'
+import AddEmployeeForm from '@/components/AddEmployeeForm'
 import { PrismaClient } from '@prisma/client'
-import EmployeeList from '../components/EmployeeList'
-import AddEmployeeForm from '../components/AddEmployeeForm'
 
 const prisma = new PrismaClient()
 
